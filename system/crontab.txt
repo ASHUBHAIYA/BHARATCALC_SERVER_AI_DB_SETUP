@@ -1,0 +1,1 @@
+*/15 * * * * /usr/bin/flock -n /tmp/explainer_pipeline.lock /opt/explainer-service/run_pipeline.sh

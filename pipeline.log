@@ -1,0 +1,335 @@
+--- Starting Explainer Scraper Run ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+
+Checking feed: https://www.livemint.com/rss/money
+[SAVED] [Linked to: sip-investment] Regular vs step-up SIPs: Do  ₹1,000 and 10% annual top-ups g...
+[SAVED] [Linked to: in-hand-salary] Government employees await July 2026 Dearness Allowance hike...
+[SAVED] [Linked to: in-hand-salary] EPFO VISHWAS 2026 explained: How employers can settle pendin...
+[SAVED] [Linked to: in-hand-salary] EPFO explains new rules for EPF advances: Check withdrawal l...
+
+--- Finished: 4 explainers added to SQLite ---
+Synthesizing ID 35: EPFO explains new rules for EPF advances: Check withdrawal l...
+[RESULT] Finished ID 35! Words: 539 | Status: ready
+Title: Understanding EPFO Advance Rules and Their Impact on Retirement Savings
+Synthesizing ID 34: EPFO VISHWAS 2026 explained: How employers can settle pendin...
+[RESULT] Finished ID 34! Words: 670 | Status: ready
+Title: Understanding EPFO VISHWAS 2026: A Guide for Employers
+Synthesizing ID 33: Government employees await July 2026 Dearness Allowance hike...
+[RESULT] Finished ID 33! Words: 396 | Status: ready
+Title: Understanding and Preparing for Government Employees' Dearness Allowance (DA) and Retirement Benefits (DR) Hike
+Synthesizing ID 32: Regular vs step-up SIPs: Do  ₹1,000 and 10% annual top-ups g...
+[RESULT] Finished ID 32! Words: 407 | Status: ready
+Title: Educational Title Here: Regular vs Step-Up SIPs: Building Wealth and XIRR
+Synthesizing ID 24: SGB 2020-21 Series VII: Investors to Pocket Significant Gain...
+[RESULT] Finished ID 24! Words: 532 | Status: ready
+Title: Maximize Your Returns with SGB 2020-21 Series VII Premature Redemption
+--- Starting Explainer Scraper Run ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+
+Checking feed: https://www.livemint.com/rss/money
+[SAVED] [Linked to: gold-jewelry-bill] Looking to purchase gold this festive season? Here's how to ...
+[SAVED] [Linked to: sip-investment] Best thematic factor-based mutual funds 2026: Which equity s...
+
+--- Finished: 2 explainers added to SQLite ---
+Synthesizing ID 38: Best thematic factor-based mutual funds 2026: Which equity s...
+[RESULT] Finished ID 38! Words: 484 | Status: ready
+Title: Navigating the Best Factor-Based Mutual Funds: A 1-3-5-Year Analysis
+Synthesizing ID 37: Looking to purchase gold this festive season? Here's how to ...
+[ERROR] Exception: Unterminated string starting at: line 5 column 3 (char 1058)
+Synthesizing ID 37: Looking to purchase gold this festive season? Here's how to ...
+[RESULT] Finished ID 37! Words: 77 | Status: draft
+Title: Educational Guide: Understanding and Maximizing Your Gold Investment Opportunities
+Synthesizing ID 37: Educational Guide: Understanding and Maximizing Your Gold In...
+[ERROR] Exception: Unterminated string starting at: line 6 column 3 (char 1079)
+Synthesizing ID 37: Educational Guide: Understanding and Maximizing Your Gold In...
+[ERROR] Exception: Unterminated string starting at: line 6 column 3 (char 866)
+--- Starting Explainer Scraper Run ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+
+Checking feed: https://www.livemint.com/rss/money
+
+--- Finished: 0 explainers added to SQLite ---
+Synthesizing ID 40: Gold FoFs halt fresh investments, but silver mutual funds re...
+[RESULT] Finished ID 40! Words: 408 | Status: ready
+Title: Navigating the Gold FoFs and Silver Mutual Funds Market Shift: Expert Insights and Practical Guidance
+Synthesizing ID 39: Who will pay for today's optimism if AI goes wrong? CEA Anan...
+[RESULT] Finished ID 39! Words: 687 | Status: ready
+Title: Navigating the AI Investment Landscape: Understanding the Risks and Opportunities
+Synthesizing ID 37: Educational Guide: Understanding and Maximizing Your Gold In...
+[RESULT] Finished ID 37! Words: 145 | Status: draft
+Title: Educational Guide: Understanding and Maximizing Your Gold Investment Opportunities
+Synthesizing ID 37: Educational Guide: Understanding and Maximizing Your Gold In...
+[RESULT] Finished ID 37! Words: 546 | Status: ready
+Title: Educational Guide: Understanding and Maximizing Your Gold Investment Opportunities During Festive Seasons
+Synthesizing ID 23: 8th Pay Commission Consultations: Employee Groups Propose Sa...
+[RESULT] Finished ID 23! Words: 318 | Status: draft
+Title: Navigating Pay Commission Changes: Strategies for Employees and Investors
+--- Starting Explainer Scraper Run ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+[SAVED] US' Russia sanction waiver a relief for India's exporters, e...
+
+Checking feed: https://www.livemint.com/rss/money
+[SAVED] Using two health insurance policies for one hospital bill? A...
+
+--- Finished: 2 explainers added to SQLite ---
+Synthesizing ID 45: Using two health insurance policies for one hospital bill? A...
+[RESULT] Finished ID 45! Words: 452 | Status: ready
+Title: Avoiding Claim Rejection Traps: A Comprehensive Guide for Health Insurance Policyholders
+Synthesizing ID 44: US' Russia sanction waiver a relief for India's exporters, e...
+[RESULT] Finished ID 44! Words: 353 | Status: ready
+Title: Navigating the Russia Sanction Relief: Opportunities and Risks for Indian Investors
+Synthesizing ID 22: Home Loan Alert: Six Banks Update Lending Rates...
+[RESULT] Finished ID 22! Words: 499 | Status: ready
+Title: Understanding and Managing Home Loan Repricing: A Comprehensive Guide
+Synthesizing ID 21: ₹9 lakh in Post Office MIS vs ₹9 lakh in Bank FD: Which Prov...
+[ERROR] Exception: Unterminated string starting at: line 9 column 14 (char 4677)
+Synthesizing ID 21: ₹9 lakh in Post Office MIS vs ₹9 lakh in Bank FD: Which Prov...
+[RESULT] Finished ID 21! Words: 303 | Status: draft
+Title: Comparing Post Office MIS and Bank FD: Which Provides Higher Monthly Income?
+--- Starting Explainer Scraper Run ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+[SAVED] Commerce Ministry organizes “Leveraging FTAs” outreach progr...
+
+Checking feed: https://www.livemint.com/rss/money
+
+--- Finished: 1 explainers added to SQLite ---
+Synthesizing ID 47: Commerce Ministry organizes “Leveraging FTAs” outreach progr...
+[RESULT] Finished ID 47! Words: 452 | Status: ready
+Title: Navigating FTAs: Maximizing Export Opportunities for Indian Enterprises
+Synthesizing ID 20: National Highway Projects Awarded Increase by 62.9% in April...
+[RESULT] Finished ID 20! Words: 389 | Status: ready
+Title: Navigating Infrastructure Growth: Strategic Insights for Investors
+Synthesizing ID 19: China Ready to Address India's Trade Concerns...
+[RESULT] Finished ID 19! Words: 400 | Status: ready
+Title: Navigating Trade Imbalance: Insights for Investors
+Synthesizing ID 18: Finance Minister Nirmala Sitharaman Calls for Public-Private...
+[RESULT] Finished ID 18! Words: 509 | Status: ready
+Title: Understanding and Leveraging Public-Private Partnership in Urban Development Investments
+Synthesizing ID 17: White House Announces Over $330 Billion in Investments from ...
+[ERROR] Exception: Unterminated string starting at: line 6 column 3 (char 1049)
+--- Starting Explainer Scraper Run ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+
+Checking feed: https://www.livemint.com/rss/money
+
+--- Finished: 0 explainers added to SQLite ---
+Synthesizing ID 17: White House Announces Over $330 Billion in Investments from ...
+[RESULT] Finished ID 17! Words: 473 | Status: ready
+Title: Navigating Global Investments: Understanding and Actively Managing Your Portfolio
+Synthesizing ID 16: India's GDP Growth Exceeds Expectations, Sets Path for Futur...
+[RESULT] Finished ID 16! Words: 376 | Status: ready
+Title: Navigating India's Economic Growth: Strategies for Long-Term Investors
+Synthesizing ID 15: India Should Become a Tech-creator Rather Than Tech-User Nat...
+[RESULT] Finished ID 15! Words: 486 | Status: ready
+Title: Educational Guide: Embracing Technological Progress for India's Economic Transformation
+Synthesizing ID 14: Government Approves Rs 1,195 Crore for ITI Cluster Modernisa...
+[RESULT] Finished ID 14! Words: 561 | Status: ready
+Title: Understanding and Maximizing Your Investments in Skill Development Initiatives
+Synthesizing ID 13: Banks Prohibited from Converting Foreign Currency Remittance...
+[RESULT] Finished ID 13! Words: 498 | Status: ready
+Title: Navigating the New Foreign Currency Remittance Rules: A Guide for Investors
+--- Starting Explainer Scraper Run ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+[SAVED] India notifies first tariff cuts under New Zealand FTA...
+
+Checking feed: https://www.livemint.com/rss/money
+[SAVED] [Linked to: in-hand-salary] Dearness Allowance hike 2026: Will the Centre announce the J...
+[SAVED] Govt announces annual bonus for postal employees; how much m...
+
+--- Finished: 3 explainers added to SQLite ---
+Synthesizing ID 51: Govt announces annual bonus for postal employees; how much m...
+[RESULT] Finished ID 51! Words: 403 | Status: ready
+Title: Understanding and Maximizing Your Potential from the Postal Employees' Bonus
+Synthesizing ID 50: Dearness Allowance hike 2026: Will the Centre announce the J...
+[RESULT] Finished ID 50! Words: 458 | Status: ready
+Title: Understanding the Timing of Dearness Allowance (DA) Hike for Central Government Employees
+Synthesizing ID 49: India notifies first tariff cuts under New Zealand FTA...
+[RESULT] Finished ID 49! Words: 452 | Status: ready
+Title: Navigating Tariff Changes: Maximizing Your Investment Returns
+Synthesizing ID 12: Finance Minister Nirmala Sitharaman Expresses Optimism on In...
+[RESULT] Finished ID 12! Words: 435 | Status: ready
+Title: Understanding and Navigating the India-US Trade Agreement: Optimism and Challenges
+Synthesizing ID 11: India Notifies First Set of Customs Duty Concessions for New...
+[RESULT] Finished ID 11! Words: 400 | Status: ready
+Title: Navigating Tariff Concessions: A Guide for Investors
+--- Starting Explainer Scraper Run ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+
+Checking feed: https://www.livemint.com/rss/money
+
+--- Finished: 0 explainers added to SQLite ---
+Synthesizing ID 10: Genpact: AI Impact on Employment and Skill Requirements...
+[RESULT] Finished ID 10! Words: 359 | Status: ready
+Title: Navigating Skill Shifts in the Age of AI: A Guide for Investors
+Synthesizing ID 9: Flipkart Registers Highest-Ever Single Day Sale, Grossing $2...
+[RESULT] Finished ID 9! Words: 455 | Status: ready
+Title: Educational Guide: Leveraging E-Commerce Sales for Strategic Mutual Fund Investments
+Synthesizing ID 8: Subramanian Swamy Calls for Ban on Cement Imports from Pakis...
+[RESULT] Finished ID 8! Words: 309 | Status: draft
+Title: Subramanian Swamy's Call for Cement Import Ban: What It Means for Investors
+Synthesizing ID 7: Endurance Technologies IPO: Should You Subscribe?...
+[RESULT] Finished ID 7! Words: 471 | Status: ready
+Title: Should You Invest in Endurance Technologies IPO? Understanding the Pros and Cons
+Synthesizing ID 6: Cautiously Optimistic on India; Eyeing Earnings Revival: San...
+[RESULT] Finished ID 6! Words: 397 | Status: ready
+Title: Educational Guide: Understanding and Navigating Market Expectations
+--- Starting Explainer Scraper Run ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+
+Checking feed: https://www.livemint.com/rss/money
+
+--- Finished: 0 explainers added to SQLite ---
+Synthesizing ID 5: Credit Suisse' Neelkanth Mishra: Repo Rate to Fall to Decade...
+[RESULT] Finished ID 5! Words: 347 | Status: draft
+Title: Understanding and Navigating the Potential Repo Rate Reduction: A Guide for Investors
+Synthesizing ID 4: Automation Threatens 69% of Jobs in India: World Bank...
+[RESULT] Finished ID 4! Words: 489 | Status: ready
+Title: Preparing for the Automation Era: Strategies for Your Investment Portfolio
+Synthesizing ID 3: Bond Bull Market May Pause but is Far from Over: Expert...
+[RESULT] Finished ID 3! Words: 394 | Status: ready
+Title: Understanding and Navigating the Bond Market: Expert Insights
+Synthesizing ID 2: Government Plans Overhaul of Tax Administration for Smooth G...
+[RESULT] Finished ID 2! Words: 431 | Status: ready
+Title: Navigating GST Rollout: Understanding and Preparing for Tax Administration Changes
+No articles need transformation.
+--- Starting Explainer Scraper Run ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+
+Checking feed: https://www.livemint.com/rss/money
+[SAVED] [Linked to: in-hand-salary] Keralam DA, DR hike: Government raises rates from 35% to 37%...
+[SAVED] [Linked to: gold-jewelry-bill] Gold on Dhanteras: celebrate the ritual, rethink the investm...
+[SAVED] Insurance reforms: Why claims matter more than distribution ...
+
+--- Finished: 3 explainers added to SQLite ---
+Synthesizing ID 55: Insurance reforms: Why claims matter more than distribution ...
+[RESULT] Finished ID 55! Words: 432 | Status: ready
+Title: Why Claims Matter More Than Distribution Costs in Insurance: A Comprehensive Guide
+Synthesizing ID 54: Gold on Dhanteras: celebrate the ritual, rethink the investm...
+[ERROR] Exception: Unterminated string starting at: line 6 column 3 (char 1194)
+Synthesizing ID 54: Gold on Dhanteras: celebrate the ritual, rethink the investm...
+[RESULT] Finished ID 54! Words: 503 | Status: ready
+Title: Celebrate Dhanteras Rituals, Reevaluate Your Investments
+Synthesizing ID 53: Keralam DA, DR hike: Government raises rates from 35% to 37%...
+[RESULT] Finished ID 53! Words: 713 | Status: ready
+Title: Navigating the Keralam DA and DR Hike: Strategies and Implications for Employees
+No articles need transformation.
+--- Starting Upgraded Scraper Run at Sun, 18 Oct 2026 04:00:02 +0530 ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+
+Checking feed: https://www.livemint.com/rss/money
+[SAVED] [Linked: inflation-calculator] 8th Pay Commission: What is the difference between basic pay... (4519 chars)
+[SAVED] [General] Gold on Dhanteras: celebrate the ritual, rethink the investm... (4489 chars)
+
+--- Finished: 2 high-quality explainers ready for synthesis ---
+
+Synthesizing ID 64: Gold on Dhanteras: celebrate the ritual, rethink the investm...
+[RESULT] Finished ID 64! Words: 436 | Status: ready
+Title: Gold on Dhanteras: Ritual or Investment?
+
+Synthesizing ID 63: 8th Pay Commission: What is the difference between basic pay...
+[WARN] JSON decode failed, attempting regex cleanup...
+[ERROR] Invalid output from model.
+
+Synthesizing ID 63: 8th Pay Commission: What is the difference between basic pay...
+[RESULT] Finished ID 63! Words: 807 | Status: ready
+Title: Understanding the 8th Pay Commission: Basic Pay, Grade Pay, and Pay Levels
+
+Synthesizing ID 62: Navigating Inflation Adjustments: Understanding and Mitigati...
+[RESULT] Finished ID 62! Words: 329 | Status: draft
+Title: Navigating Inflation Adjustments: Understanding and Mitigating the Impact on Your Finances
+
+Synthesizing ID 62: Navigating Inflation Adjustments: Understanding and Mitigati...
+[RESULT] Finished ID 62! Words: 227 | Status: draft
+Title: Navigating Inflation Adjustments: Understanding and Mitigating the Impact on Your Finances
+--- Starting Upgraded Scraper Run at Sun, 18 Oct 2026 06:00:02 +0530 ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+
+Checking feed: https://www.livemint.com/rss/money
+
+--- Finished: 0 high-quality explainers ready for synthesis ---
+
+Synthesizing ID 69: 8th pay commission: Official state visit to Mumbai planned t...
+[RESULT] Finished ID 69! Words: 520 | Status: ready
+Title: Understanding the 8th Pay Commission and Its Impact
+
+Synthesizing ID 68: EPFO: How to check status, EPF account passbook on official ...
+[RESULT] Finished ID 68! Words: 500 | Status: ready
+Title: How to Check EPF Account Status and Passbook: Step-by-Step Guide
+
+Synthesizing ID 67: India’s soybean output seen falling 2.1% to 107.93 lakh tonn...
+[RESULT] Finished ID 67! Words: 446 | Status: ready
+Title: Understanding India's Soybean Production Forecast
+
+Synthesizing ID 66: 'India an important ally': Rubio says Trump studying effects...
+[RESULT] Finished ID 66! Words: 257 | Status: draft
+Title: US President's Statement on India and Tariffs
+
+Synthesizing ID 66: US President's Statement on India and Tariffs...
+[RESULT] Finished ID 66! Words: 257 | Status: draft
+Title: Understanding the US Statement on India's Energy Needs and Tariffs
+--- Starting Upgraded Scraper Run at Sun, 18 Oct 2026 06:15:02 +0530 ---
+
+Checking feed: https://www.moneycontrol.com/rss/MCtopnews.xml
+
+Checking feed: https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms
+
+Checking feed: https://www.livemint.com/rss/money
+[SAVED] [General] ₹50,000 in KVP vs  ₹50,000 in NSC: Which post office scheme ... (4519 chars)
+
+--- Finished: 1 high-quality explainers ready for synthesis ---
+
+Synthesizing ID 71: ₹50,000 in KVP vs  ₹50,000 in NSC: Which post office scheme ...
+[RESULT] Finished ID 71! Words: 503 | Status: ready
+Title: NSC vs KVP: Which Post Office Scheme is Better for a 5-Year Goal?
+
+Synthesizing ID 66: Understanding the US Statement on India's Energy Needs and T...
+[RESULT] Finished ID 66! Words: 257 | Status: draft
+Title: Understanding the US Statement on India's Energy Needs and Tariffs
+
+Synthesizing ID 66: Understanding the US Statement on India's Energy Needs and T...
+[RESULT] Finished ID 66! Words: 257 | Status: draft
+Title: Understanding the US Statement on India's Energy Needs and Tariffs
+
+Synthesizing ID 66: Understanding the US Statement on India's Energy Needs and T...
+[RESULT] Finished ID 66! Words: 257 | Status: draft
+Title: Understanding the US Statement on India's Energy Needs and Tariffs
+
+Synthesizing ID 66: Understanding the US Statement on India's Energy Needs and T...
+[RESULT] Finished ID 66! Words: 257 | Status: draft
+Title: Understanding the US Statement on India's Energy Needs and Tariffs

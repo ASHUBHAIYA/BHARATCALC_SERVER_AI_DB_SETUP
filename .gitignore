@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+data/news.db
+data/*.db
+data/*.db-journal
+/tmp/*.lock
+.env
