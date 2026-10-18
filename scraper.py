@@ -64,6 +64,15 @@ CALCULATOR_RULES = [
     }
 ]
 
+# Common filler words and clickbait phrases that dilute SEO ranking
+STOP_WORDS = {
+    "a", "an", "the", "and", "or", "but", "about", "above", "after", "along",
+    "at", "by", "for", "from", "in", "into", "of", "off", "on", "onto", "out",
+    "over", "to", "with", "here", "details", "case", "explained", "know", "how",
+    "what", "why", "this", "that", "it", "its", "check", "full", "read", "story",
+    "latest", "update", "updates", "breaking"
+}
+
 def clean_url(url: str) -> str:
     parsed = urlparse(url)
     return urlunparse((parsed.scheme, parsed.netloc, parsed.path, '', '', '')).rstrip('/')
@@ -80,10 +89,19 @@ def is_already_scraped(url_hash: str) -> bool:
     return exists
 
 def slugify(text: str) -> str:
-    text = text.lower().strip()
-    text = re.sub(r'[^\w\s-]', '', text)
-    slug = re.sub(r'[\s_-]+', '-', text).strip('-')
-    return slug[:110] if slug else "explainer"
+    """Produces clean, keyword-rich slugs under 60 chars without filler noise."""
+    cleaned = re.sub(r'[^\w\s-]', '', text.lower()).strip()
+    words = cleaned.split()
+    
+    # Strip stop words to preserve high-intent search keywords
+    filtered_words = [w for w in words if w not in STOP_WORDS]
+    
+    # Select 5 to 7 high-intent keywords
+    selected_words = filtered_words[:6] if len(filtered_words) >= 3 else words[:5]
+    
+    slug = "-".join(selected_words)
+    slug = re.sub(r'[\s_-]+', '-', slug).strip('-')
+    return slug[:70] if slug else "financial-explainer"
 
 def detect_calculators(text: str):
     lower = text.lower()
@@ -173,21 +191,20 @@ def run_scraper():
             full_text = extract_full_article(cleaned)
 
             # QUALITY GATE: If full text extraction failed or was paywalled (< 500 chars), skip it.
-            # Do not pass thin snippets to LLM.
             if not full_text:
                 print(f"[REJECTED - THIN CONTENT] {title[:50]} (Could not extract main body)")
                 continue
 
             primary_calc, related_calcs = detect_calculators(f"{title} {summary} {full_text[:400]}")
             
-            # If no financial calculator logically pairs with this news item, skip or mark as generic
+            # Clean, compact, SEO-friendly slug
             slug = f"{slugify(title)}-{url_hash[:8]}"
 
             data = {
                 "slug": slug,
                 "title": title,
                 "summary": summary[:300] if summary else title,
-                "content": full_text,  # Clean, 500-1500+ character body text
+                "content": full_text,
                 "category": category,
                 "primary_calculator": primary_calc,
                 "related_calculators": related_calcs,
@@ -199,6 +216,7 @@ def run_scraper():
             if save_explainer(data):
                 calc_label = f" [Linked: {primary_calc}]" if primary_calc else " [General]"
                 print(f"[SAVED]{calc_label} {title[:60]}... ({len(full_text)} chars)")
+                print(f"       -> Slug: {slug}")
                 new_count += 1
             else:
                 print(f"[SKIPPED] Duplicate entry: {title[:40]}")
